@@ -25,3 +25,22 @@ More non-commital noises. He was losing them. By the glance they exchanged he co
 "I work as a school nurse, now that the kids are grown. Charles is also a singer. Back in his prime a record he was on with the Ministring Orchestra won a grammy. Show him your bass note, honey."
 
 Charles obliged, opening wide as if to belch, making a sound deeper than the rumbling of the train.
+
+___
+Back in his seat, his phone precariously balanced on the armrest in the only configuration where the dirty usb port would actually take a charge, Chase felt sick. The sadness that had temporarily abated once he'd made the decision to go to the conference, and bought the ticket, returned, stronger than before. He caught himself grinding his teeth, a maddening fragment of melody looping through his head.
+
+The idea of being on a train had appealed to him in imagination, although a flight would have been easier, and he wouldn't be missing the first two days of the hackathon. *You're on the right track*, the train had said, pulling out of Union Station, after his father had dropped him off.
+
+He'd planned on working on the train, getting started on looking at the libraries he would use. Chase wouldn't be able to do the coding himself or course. He'd be the idea guy, doing the docs, maybe giving a presentation, a philosophical framing. Assuming he could find a team. Rather than working, he had scrolled through Flitter and the Accord servers for the hackathon and the Demon Dao, increasingly jealous of other people's bios and skills, feeling like an imposter.
+
+After an initial surge of approval and positive emojis, interest in his post about memetic theory and NFT metadata had dried up. He'd burned his bridges with the two developers he'd been planning on working with virtually, from England and Estonia. The rules didn't allow for mixed teams of in-person and virtual attendees. He'd banked on finding another, even better team for the live, on-site hackathon, competing for a different set of bounties. So far, though, no one wanted to work with him. *We can talk about it when you get here* more than one developer had said, but there were a limit of four people on a team, and the teams were filling up.
+
+The train had stopped, the conductor saying something about needed to scrape ice off the tracks. Chase couldn't tell if he was joking. Outside was impenetrable dark, save a slight downward static of snow. A mother was yelling at her toddler, who was crawling under the seats, among the shells of sunflower seeds and coffee cups. Counting down through clenched teeth.
+
+When she got to two, Chase stood up and stumbled down to the bathrooms, barely getting his pants down before his fear and sadness squirted out of him.
+
+His stomach wasn't upset because of his emotions, Chase realized with the clarity of deep physical distress. The arrow of causality was the other way. His mood of doom had come from being sick, some rogue replicator in his gut. The virus didn't cause diarrhea, did it? No, this was something else, probably the unrefrigerated seaweed salad from the noodle place two days ago. Not sure if the fizzy expulsions from his colon were over, after wiping the worst of it, he looked at his phone.
+
+Crypto was still down. Two more people had liked his comment on Reader. No one had responded to his pitch, except to post a meme which Chase didn't get, some celebrity holding a skull in one panel, and a frame from an anime in the other, saturated with neon. God he hated memes.
+
+Looking at the comments, he thought of another reason why he might be feeling so terrible. It was the first night in years that he wasn't drinking.
