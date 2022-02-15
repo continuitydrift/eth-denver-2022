@@ -44,3 +44,5 @@ His stomach wasn't upset because of his emotions, Chase realized with the clarit
 Crypto was still down. Two more people had liked his comment on Reader. No one had responded to his pitch, except to post a meme which Chase didn't get, some celebrity holding a skull in one panel, and a frame from an anime in the other, saturated with neon. God he hated memes.
 
 Looking at the comments, he thought of another reason why he might be feeling so terrible. It was the first night in years that he wasn't drinking.
+
+[chapter 2](chapter-2.md)
