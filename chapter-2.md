@@ -11,3 +11,15 @@ She straightened the covers, rubbing warmth back into her feet under the warmth 
 "I love you too," she said out loud. The phone probably thought she was talking to it.
 ___
 The next morning she went to a yoga session hosted by FemDAO, a women-centric and women-led organization she'd been happy to see included in the schedule. It was a short walk, the air surprisingly warm, to the large, pastel-covered studio with mandalas and cut-out copper vines spinning sillhouettes out onto the walls.
+
+She was the oldest and largest person there, and the only one not in tight-fitting clothes, but she had a decade more experience than any of the dozen or so others there, and handled the "advanced" asanas easily, despite her weight, while others wobbled and fell.
+
+The instructor was a trans woman, who gave overly technical directions mixed with spiritual platitudes. Matty mostly ignored her, like she tried to ignore the camera broadcasting the studio to a Witch channel so people around the world could participate. It was aimed at the instructor, but also at the mirrored wall, so everyone in the class visible.
+
+When she felt hands on her back during one of the poses, she tensed, but the correction was actually useful. Unlike in some of the other classes she'd been to, the instructor didn't try to force her to do the vinyasa the "normal" way, which didn't work for her body type. Her advice was clinical, but the adjustment made sense, and she could feel the difference once she'd shifted the way her hips were stacked.
+
+"Are you in the hackathon?" the instructor asked her after the class. She always did her shavasanas sitting up, with her eyes closed, and when she opened them, after the music stopped, everyone was gone, and the instructor was smiling at her. She introduced herself as "Dana, she/her", and waited awkwardly after Matty had introduced herself just by her name, unwilling to bring herself to add the pronouns.
+
+"I'm one of the judges," she said, rolling up her mat. " Our company is sponsoring one of the bounties. We do large scale, decentralized incentives for environmental monitoring."
+
+"Oh wow, I would love to connect." Dana held out her lanyard with the cornybuff, the unicorn/buffalo mascot that proved she had paid .1 Truthereum to mint or buy it. Matty took out her phone from her purse and scanned the QR code, inscribing their meeting forever on the blockchain.
