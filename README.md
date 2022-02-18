@@ -7,7 +7,7 @@ Novel NFTs
 
 ![Memeticist](assets/images/memeticist.jpg)
 
-# Crypto Drift: Magic Rug Pull
+# Crypto Drift: Novel NFTs
 Crypto Drift is a replicable experiment in the performance and gamification of novel writing. It is an "occasional" text, written for the virtual "buildathon" for the EthDenver conference in February and March of 2022.
 # The Novel
 The narrative is set in a fictionalized version of the conference itself, with an ensemble cast of archetypal web 3 characters, used as vehicles for speculation and self-referential, kind-hearted comedy.
