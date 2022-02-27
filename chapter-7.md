@@ -39,3 +39,49 @@ She frowned, concentrating, slightly annoyed that her powers of recall and rheto
 Babacar nodded, solemnly. "I don't know too many investors that would make that bet."
 
 Matty sighed. "No," she said, "me either."
+
+___
+
+Someone else joined them, the sick-looking man, oldest out of the seven, that Matty had seen staring at Babacar earlier, especially, for some reason, at his shirt.
+
+"Pseudoghost," Babacar said.
+
+"What?"
+
+"Earlier, you said pseudoghost. I asked if you said 'seen a ghost'. I was messing with you."
+
+Matty watched the exchange with interest, relieved to be out of the spotlight.
+
+"So you're...?"
+
+"Not the pseudoghost. They don't exist. I mean they half exist. But usually it's a bot. Did one start messaging you?"
+
+"Well, yeah."
+
+"What did it say?"
+
+"To meet them at the temple. They were wearing a blue shirt."
+
+Babacar laughed. "Oh, I'm sorry my friend, I'm not laughing at you. It's just getting smarter. But sometimes not growing in the best directions."
+
+"So I just got pwned by a bot," the thirty-something said, dejectedly.
+
+"No, don't feel bad, it's only half a bot. Approximately. At any given time." Babacar stared at him. "What's your name?"
+
+"Chase." Babacar nodded, gave him his name, then hers. She fought the urge to put on her mask and clean her hands with disinfectant.
+
+"For one thing, it's using real conversations. People don't realize how much of the content they generate that Accord has access to, and how easy it is to use randomly generated sets of that data, combined with machine learning, to spoof being a human. But there are programmers selecting from the outputs, and one of them was probably pranking you. People can be jerks."
+
+"It's just...it actually sounded like a cool idea."
+
+"What idea?"
+
+"Inserted procedurally generated poetry into the comments of existing code. They said that there would be a beneficent virus that would spread spores of whimsical meta-gaming into unexamined source files."
+
+Babacar went to get more tea, and Matty was left staring at Chase, who seemed distressed about something.
+
+"Are you nervous about the judging, tomorrow?" Matty asked him.
+
+"Oh, no. I'm not competing."
+
+She smiled, trying to ease the stress of whatever it was he was experiencing that made him look so haunted. "Neither am I."

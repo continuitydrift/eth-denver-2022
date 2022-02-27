@@ -8,9 +8,25 @@ Novel NFTs
 ![Memeticist](assets/images/memeticist.jpg)
 
 # Crypto Drift: Novel NFTs
-Crypto Drift is a replicable experiment in the performance and gamification of novel writing. It is an "occasional" text, written for the virtual "buildathon" for the EthDenver conference in February and March of 2022.
+
+Crypto Drift is a replicable experiment in the performance and gamification of novel writing. It is an "occasional" text, written for the virtual "buildathon" for the EthDenver conference in February and March of 2022. It also borrows heavily from the idea of "hex flower" procedurally generated novels, developed by [Goblin's Henchman](https://goblinshenchman.wordpress.com/).
+
+
+# Roadmap
+
+* March 3rd: Part one Published (7 chapters) on Spindle. NFTs of characters up on storefront.
+* March 10th: Part two Published (~7 chapters). Abstract art and instrumental music released on Crescendo
+* March 17th: Part three Published (~7 chapters). Possible buy-backs of NFTs for original value in Algo/Yarn, from project wallet.
+
+# Hex Flowers
+
+The highest scoring NFT will get the spot, or direction on the hexagonal compass, most likely to be rolled. There is a major trend downward, and a minor trend down and to the left.
+
+Another roll will determine the secondary character in the scene, according to the table.
+
+
 # The Novel
-The narrative is set in a fictionalized version of the conference itself, with an ensemble cast of archetypal web 3 characters, used as vehicles for speculation and self-referential, kind-hearted comedy.
+The narrative is set in a fictionalized version of the conference itself, with an ensemble cast of characters.
 
 Having much of the conference broadcast virtually creates an opportunity for a shared fictional setting, a powerful point of reference, but the names and identities of actual people, technologies, and blockchains have been changed.
 
