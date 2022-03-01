@@ -1,3 +1,5 @@
+Note: latest version of this chapter is available as a google doc.
+
 # Chapter One
 
 "I'm a memeticist," Chase said. The older couple blinked at him, one and then the other, a habit that they must have developed over years of marriage, and now mirrored unconsciously.

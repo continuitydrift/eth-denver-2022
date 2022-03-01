@@ -11,12 +11,23 @@ Novel NFTs
 
 Crypto Drift is a replicable experiment in the performance and gamification of novel writing. It is an "occasional" text, written for the virtual "buildathon" for the EthDenver conference in February and March of 2022. It also borrows heavily from the idea of "hex flower" procedurally generated novels, developed by [Goblin's Henchman](https://goblinshenchman.wordpress.com/).
 
-
 # Roadmap
 
 * March 3rd: Part one Published (7 chapters) on Spindle. NFTs of characters up on storefront.
 * March 10th: Part two Published (~7 chapters). Abstract art and instrumental music released on Crescendo
 * March 17th: Part three Published (~7 chapters). Possible buy-backs of NFTs for original value in Algo/Yarn, from project wallet.
+
+# Updates
+
+## 2/27
+
+My main goal, until March 21st, is for finish the novel **Crypto Drift**, getting it edited and in a form accessible to and enjoyable for readers.
+
+This project is also, however, an experiment in interactive fiction, and I want the drafting stage to be transparent, performative, gamified, and collaborative. For this, I need your help.
+
+If you are reading this, consider yourself part of an informal decentralized autonomous organization, where our shared assets are currently seven drafted chapters, six character sketches, two abstract art pieces, and two short samples of instrumental music, all created within the past two weeks.
+
+Spindle ASA has been kind enough to let us use this discord, and their website, to launch the project. Any writers, readers, and creatives involved in **Crypto Drift** will *de facto* be involved with Spindle as well, just as Spindle, in turn, is part of a larger community of investors, activists, and developers expanding out the Algorand ecosystem.
 
 # Hex Flowers
 

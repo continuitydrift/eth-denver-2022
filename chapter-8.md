@@ -22,7 +22,7 @@ Babacar took out his phone, and only broke eye contact to look up the number Mar
 
 Marcus looked at his phone and, taking about ten seconds longer, typed something back.
 
-Babacar looked. **A lot.** It said.
+Babacar looked. **A lot.** It said.  
 
 ___
 
@@ -34,4 +34,4 @@ Their relationship had not begun auspiciously.
 
 "Sorry. Babacar?"
 
-Babacar had stared at the man, taking in the details of him, guessing his intentions. Either not hostile, or good at hiding it. Visions of game theory danced before his eyes, hawks and doves, hordes of cellular automata. 
+Babacar had stared at the man, taking in the details of him, guessing his intentions. Either not hostile, or good at hiding it. Visions of game theory danced before his eyes, hawks and doves, hordes of cellular automata.
