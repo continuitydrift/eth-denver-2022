@@ -50,7 +50,7 @@ The sitar, and the cello, sounded better than they had in years.
 
 "Thank you," Nico said. "For trusting me. And I trust you, as well. If you like, I can dispense with this whimsical interface."
 
-"No," Sunitha said, smiling. He reminded her of her uncle. "I like how much you like it. It's like watching my little cousins listen to hip-hop for the first time."
+"No," Sunitha said, smiling. He reminded her of her uncle. "It's how much you like it. It's like watching my little cousins listen to hip-hop for the first time."
 
 "So, what would you have done, instead?"
 
@@ -61,3 +61,17 @@ The sitar, and the cello, sounded better than they had in years.
 It didn't work that way, Sunitha thought. Who knew where this strange guy's funding was coming from? Was it the same as what she, and her tight-knit group of friends had agreed upon?
 
 "Sunil can make anyone sound good," she said. "These instruments...Look, if you are reasonably competent as a musician, you can use money as an instrument. Especially if you can recognize the physical ability of the people involved in the craft of making them."
+
+"Look, someone's here. I'll call you back."
+
+"Okay," Nico said, leaving the helmet on. He'd wanted to ask her about Chase. He sent her an email.
+
+> When you get a chance, tell me what you think of Chase. Everyone else we on-board gets the same deal as what I described. Half up front, then you have to use the other half to pay people other than yourself. The delegatory division of the para-gaming org funding the project supposedly game theoried everything out to maximize co-operation and reliable results, but that only works if everyone gets along well enough to communicate. Any residual or derivative contracts based on the initial assets is up to you.
+
+Nico did the rounds of his virtual castle. The tapestries on the walls showed a rotating collection curated by the bio-feedback of ten thousand or so users of the software some of the Daemon Dao founders had released. The entire game was open source, but Nico did tend to accumulate a lot of access privileges and beta whitelisting from grateful guild-members he had sponsored. He had to admit, there was something sinister about his choices in virtual décor. Partly leaning into the daemon thing, partly exorcising the religious memes planted by an orthodox education, re-emerging unwelcome after a life-long relationship with atheism.
+
+Sunitha called him, using proprietary conferencing software, so by the time he'd made sure that his VPN was active he was afraid she would hang up. "Hello? Sunitha?"
+
+"Hey! So, Chase and Babacar are actually here, playing some kind of board game. You could talk to them if you want."
+
+The flamingo flapped its wings, and stood on one foot. "Of course, let me just grab some coffee. B-r-b."
