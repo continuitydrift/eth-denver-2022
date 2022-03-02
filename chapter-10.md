@@ -1,0 +1,19 @@
+# Chapter 10
+
+Babacar, it turned out, was a serious gamer, the possible intersection of NFTs and role playing games being the main reason he had attended the conference. Sunitha had, when she learned that he was planning on doing a regular Witch.tv broadcast, had encouraged him to let Marcus stream it on a different laptop, using Nico's decentralized app, and comparing the quality of the two streams and engagement.
+
+So they were in a side-room off the main common area for the lodge, with one of the establishment's flat-screen tvs propped face up on the table, with a clear plastic mat protecting the display from the miniatures Babacar had pulled from a pouch of actual chainmail. Dice, drinks, and fried foods were featured prominently at the table margins not covered by the display.
+
+Nico was the only one playing virtually, his video feed appearing in a corner of the horizontal screen. He'd dropped the flamingo avatar, and so far hadn't been using his daemonic filter, but his usual background of medieval bric-a-brac leant the stream a touch of authenticity, as did his accent.
+
+Sunitha had a lot more followers than Babacar, so she started her own stream on Witch, looping some instrumentals with the new instruments, the acoustics surprisingly decent. "Welcome," she said, looking into the camera that Marcus had set up, far better resolution than the web cam or phone she usually used. She had decent microphones and recording equipment back in Baltimore, but had never considered upgrading her video quality worth the cost.
+
+"I'm in Colorado, with some friends I made in the past week, and of course Sunil, who will be doing the audio for this stream, and Babacar, who'll be running a one-shot of his original procedural role playing game, Septagons." Marcus was running the broadcasting software, and he switched it to the angle showing Babacar, smiling more than any time since she'd met him a few days ago. Sunitha, as much as she tried to suppress it, felt an automatic dislike for Marcus. They'd tried jamming, and it was clear that despite his claim to know some "killer solos" on guitar, he had no idea how to improvise or listen to other musicians. His musical tastes (surf rock, for god's sake!) indicated an ability to only enjoy over-produced and predictable formulas of chord changes and folksy slides and hammer-ons.
+
+"Septagon's is a working title, Sunitha. Thank's for hosting this on your channel, and welcome to anyone joining us from over there. I can see already we have more people here than usual." He proceeded to greet, by name, anyone who said hello in the chat. It was the one thing Sunitha didn't like about streaming, the expectation to acknowledge every person in the audience who bothered to type even an emoji. At some point, she thought, the quality of the stream was decreased for everyone because of the time wasted validating the presence of the viewers, which led to fewer viewers. When there were hardly any viewers, she could focus on the music, and then her stream got more popular. A self-regulating system. Homeostatic balancing of interest.
+
+At some point, Marcus switched the camera over to her again, and eventually Babacar took the hint, although they were using one hot mic in the middle of the table, so there was no way for the snowboarder to actually mute him.
+
+"We should thank Ski-foot lodge, too," Sunitha said as a waitress came in with a pot of black tea. "Send Bytecoin to the address I'm posting in chat and they will get it in tips. If you want to tip us, the Glider Guns, use the link in the description. Just don't tell Benton or Craig, or we'll have to give them a cut. Just kidding, guys, I see you in chat. I think we're ready when you are." The last she said to Babacar, who was fiddling with dice and the large sheets of hexagonal graph paper he'd spread out in front of him, weighed down by drinks and coasters.
+
+___
