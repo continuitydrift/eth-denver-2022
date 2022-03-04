@@ -17,6 +17,28 @@ Crypto Drift is a replicable experiment in the performance and gamification of n
 * March 10th: Part two Published (~7 chapters). Abstract art and instrumental music released on Crescendo
 * March 17th: Part three Published (~7 chapters). Possible buy-backs of NFTs for original value in Algo/Yarn, from project wallet.
 
+# Chapter Outline
+
+1. Chase is on his way by train to the conference. Meets an older couple. Gets sick.
+2. Matty misses her family. Goes to a yoga class.
+3. Marcus gets fired. Agrees to meet Damien later.
+4. Sunitha gives a speech about Glider Guns. Will be performing later in the week.
+5. Marcus talks to Nico about Reincarnate.
+6. Chase chats with the pseudoghost online. Goes to temple performance and meets Sunitha.
+7. Babacar explains his procedural narrative generation game to Matty. He tells Chase he isn't the pseudoghost.
+8. Chase invites Babacar to the ski resort to work on Reincarnate.
+9. Nico meets Sunitha in virtual reality. Muses about project.
+10. Babacar is streaming a narrative board game he invented, called septagons.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+
 # Updates
 
 ## 2/27
