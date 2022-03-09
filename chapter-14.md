@@ -32,10 +32,72 @@ Introductions were made, and two more chairs were brought in. Matty asked about 
 
 "I heard you mention the protests, earlier, and something about the phones? Chase might have told you, I'm having trouble with mine, too. I'm worried because my family is on their way here, tonight. I need to be able to talk to them."
 
-"We have a laptop if you want to use that," Charles offered, sympathy (probably?) in his eyes. Matty looked at him squarely for an uncomfortable length of time, and then leaned forward, putting her elbows on the table, and knocking over Chase's wine glass. The waitress magically appeared.
+"We have a laptop if you want to use that," Charles offered, sympathy (probably?) in his eyes. Matty looked at him squarely for an uncomfortable length of time, and then leaned forward, putting her elbows on the table, and knocking over Chase's wine glass. The wait staff magically appeared.
 
 They poured him a new glass, washing out the first, and Matty seemed content, this time, to let him drink it.
 
 ___
 
- 
+"We recommend that you uninstall the Glider Guns app from your phones, if you have the battery left to do so," Sunitha was saying from the stage. "Laptops still work, so you might want to opt out of the assets there. Unless you downloaded the mimic branch, though, there shouldn't have been any way for malicious code to get into your device."
+
+A few minutes ago, Matty had been self-conscious that she was the only one with her laptop open, waiting for Brian or Jenny to return her video call. Brian might not know how to get the Boom app to work from his phone, but Jenny would. Now, it seemed like more than half of them were glued to screens.
+
+"We can't do our usual set, because of two-factor identification for the accounts, so we're just going to do this unplugged from the cloud, just us and a looper and whatever pedals and local software Sunil's working with over there."
+
+"We also understand that everyone was already upset of the market crash, and the situation in Ukraine, but we've been assured that all our assets are safe. It's just a UI bug, the hackers aren't actually able to access your accounts. If, however, everyone reacts to the web site and withdraws their funds, it could cause an actual depreciation of value."
+
+From across the room, Babacar and Chase sent her a link. It was to a drone video, but before she had a chance to open it, the Boom call from Brian's account came in.
+
+"There's two trucks blocking the road, not far from the lodge," Brian said. "A logging truck and a cement truck. We could walk to where you are, but..."
+
+"No," Matty said, "I'll come to you. Let me grab my suitcase."
+
+"It's snowing pretty hard."
+
+There had also been thunder, Matty realized. Thunder didn't usually happen with snow.
+
+Babacar and Chase saw her packing up, and both of them immediately offered to walk with her. She nodded, wondering if there would be room in the rental if she could convince them to leave with her. Just for the night. She had a bad feeling.
+
+"Chase," Matty said, once they were outside. "I saw that woman put something in your wine. That's why I knocked it over."
+
+"I didn't think it was an accident. I thought you were just trying to keep me from getting drunk."
+
+"That was part of it. I really think something is going to happen tonight. I've been listening to people in the communities I work with. A lot of different forums are getting flooded with bots."
+
+"Who are they?" Babar was staring at her, intently, bringing her thoughts back into focus.
+
+"The bots? As far as I can tell, Russian oil interests." There were a few other people milling outside, one or two with binoculars. There was a dandelion sphere of light coming from what must be the tour bus for the board rock band, shadowed by the two trucks blocking the road, the bumpers of the cabs turned in a kiss.
+
+"Matty? What is it?"
+
+"I know that woman. She is a yoga instructor. I know her from the conference." Matty struggled to separate relevant details from her own need for pattern-recognition in the face of chaos.
+
+Dana came up to her, remembering her name. "I didn't know you were here!" she said warmly. "You should come to class tomorrow morning."
+
+"I'm actually leaving right now. My husband and kids are out there on the road." Matty pointed toward the light. Dana offered to come with them, despite suspicious looks from both Chase and Babacar. "They're a good band," the trans woman said, shrugging.
+
+Chase kept checking his phone, his eyes wide and nervous. The sky shifted and glowed ominously, barely any moon. Babacar was carrying her suitcase. They could hear Sunitha's violin coming from the lodge, competing with the sound-check from the valley below them.
+
+They rounded a corner and the sound and light got louder, unfiltered by pine needles and snowy air.
+
+"I've been talking to the pseudoghost," Chase said, more to Babacar than her.
+
+"Your phone still has power?"
+
+"Yeah. It's actually been charging for the past ten minutes. I don't understand how."
+
+Matty pushed forward, through groups of people clustered around cars that had gotten stuck trying to leave, who mostly seemed resigned to another night of impromptu festivities, since the impasse was a problem beyond their control. The Ski-foot was offering them a free night's stay, and the surf/board rock band giving them a free performance, probably in the hopes that the contract for the original tour date would be honored. They either had some kind of generator, or some heavy-duty batteries to store energy from the free-standing solar panels she'd noted on the roof of the bus, folded now like insect wings.
+
+"What do they say?"
+
+"It's a link to some game I've heard about, based on an old science fiction novel. It's asking me which side I'm on, continuity or drift."
+
+Matty was looking at her own phone, and had just switched from a live feed from one of the drones, on the conference's official channel, to Marcus's livestream. The music she was hearing, generous with wah-wah, was echoed from the delay, until she muted it.
+
+In the seconds of video that would go viral in the next couple days, Marcus puts himself in the frame of the camera, his pupils alarmingly dilated, making the "devil's horns" with the hand not holding the camera.
+
+Matty, closer than anyone else now to the back of the two vehicles, a logging and cement truck, which she could now see were actually chained together by the nose, saw the hastily sprayed graffiti. On one of the eighteen-wheelers was a well-known symbol of one of the more radical water and land defender groups in the area. She followed them on Flitter. On the opposing truck as the most hateful symbol you can imagine.
+
+"Chase," she said, turning, "wait! Don't press anything..."
+
+In the video, Marcus was sticking out his tongue, the software compensating for shake of head-banging extending up his arm, The band slams through the pealing end of the extended guitar solo, reverb echoing strange and low through the mountains, impossibly deep, and is about to go back into the chorus, when two trucks behind them explode.
