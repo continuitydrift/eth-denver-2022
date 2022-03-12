@@ -96,8 +96,8 @@ Matty was looking at her own phone, and had just switched from a live feed from 
 
 In the seconds of video that would go viral in the next couple days, Marcus puts himself in the frame of the camera, his pupils alarmingly dilated, making the "devil's horns" with the hand not holding the camera.
 
-Matty, closer than anyone else now to the back of the two vehicles, a logging and cement truck, which she could now see were actually chained together by the nose, saw the hastily sprayed graffiti. On one of the eighteen-wheelers was a well-known symbol of one of the more radical water and land defender groups in the area. She followed them on Flitter. On the opposing truck as the most hateful symbol you can imagine.
+Matty, closer than anyone else now to the back of the two vehicles, a logging and cement truck, which she could now see were actually chained together by the nose, saw the hastily sprayed graffiti. On one of the eighteen-wheelers was a well-known symbol of one of the more radical water and land defender groups in the area. She followed them on Flitter. On the opposing truck was the most hateful symbol you can imagine.
 
 "Chase," she said, turning, "wait! Don't press anything..."
 
-In the video, Marcus was sticking out his tongue, the software compensating for shake of head-banging extending up his arm, The band slams through the pealing end of the extended guitar solo, reverb echoing strange and low through the mountains, impossibly deep, and is about to go back into the chorus, when two trucks behind them explode.
+In the video, Marcus was sticking out his tongue, the software compensating for shake of head-banging extending up his arm, The band slams through the pealing end of the extended guitar solo, reverb echoing strange and low through the mountains, impossibly deep, and is about to go back into the chorus, when the two trucks behind them explode.
