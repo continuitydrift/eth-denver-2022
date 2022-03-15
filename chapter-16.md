@@ -27,3 +27,47 @@ I'm dwelling on it because its the last chance any of the characters will have t
 You, dear reader, also deserve some music without moralism, an interlude before the inescapable falling action.
 
 "DAOS, cryptos, don't represent anything original, let alone revolutionary, in terms of organizing. It's just the same battlefield drifted into new terms, relief soldiers of generations undestroyed. The only thing web3 changes is the new location of the essential tools, a switch-up in the scramble to see who will get to understand and use them. Decision making, relationships between nodes in the super-organic god-heads, are becoming decentralized, which will upset existing structures of persuasive power."
+
+___
+
+The internet came back, or appeared to. A lot of people in the room were checking their phones, nervously.
+
+"Do you want to play the market?" Sunil asked her.
+
+It was a gimmick they'd considered, and rejected, one of the folders of forgotten code that had been rejected because the programs had failed to produce anything musical. Noise without signal.
+
+Again, this was before the explosions. The timing would be important when they would report things to the police, later.
+
+Explanations about what happened would differ. It is possible that hackers took control over all of the devices at the Snow-foot. Fed then false data, spoofed all of the sources of information that were confirming the localized, subjective timeline of events. How, though, did the hackers so accurately predict what the rest of the world would agree happened *after* the trucks turned into fireballs, and after the invasion of Ukraine. How could they have given the hundreds of people staying at the lodge accurate stock and crypto market data, from all of the major exchanges, apparently from the future?
+
+Sell or buy orders were found not to have gone through, or to have time stamps the conflicted with those of the live stream, when Sunil and Sunitha were on stage, playing a song improvised based on real-time prices of Truthereum and Goalrand.
+
+The program Sunil had written took the price of a digital asset, like Truthereum, Goalrand, or Bytecoin, and transposed the line, plotted over an axis of real time, into musical notes. The oscillations were rendered into salient steps in a common key, time intervals normalized into punctuated beats, approximating rhythm.
+
+There was no multi-media screen behind them, like there had been at the temple, but Sunil was broadcasting the live-stream that Babacar was supposed to be managing, but he'd gone off to help Matty.
+
+How tight can the musical phrasing get?
+
+Performances were like that, with people crowded toward the stage, catching the experience closest to the musicians, the way they sent signals with their eyes and hips.
+
+Both Truthereum and Goalrand were plummeting. Sunitha and Sunil both had bots running that would be responding to conditions as best they could, balancing their portfolios, trying to mitigate impermanent loss with the arbitrage opportunities bubbling up from the froth and carnage.
+
+Part of Sunitha wanted to stop the concert, to give everyone there investment advice. She could feel it, hear it in the music. This was more than a usual correction. This was price discovery on a cosmic scale, some essential line of support or resistance getting erased, forever. If only she knew which.
+
+Both Truthereum and Goalrand were plummeting. Sunitha could almost hear the bots trying to catch the falling knives, cutting the wires of their unfeeling fingers. The numbers fell past the expected range, the program rendering them as sub-audible, and then started again at the top, recalibrating, tumbling down through rapidly depreciating arpeggios.
+
+Sunil and Sunitha had been playing a dirge in honor of all that wiped out wealth, that flash crash of consequent, compounding liquidations. This was how she had been so sure, when questioned in the police station, about the timing of events. First the crash, Goalrand leading the charge, playing a frantic bass line, with Truthereum teetering and sliding next, and Bytecoin falling last and hardest. Then the explosion.
+
+But I don't want to write about that, quite yet.
+
+Sunil, before she had met him, had been heavily into the mash-up scene, a more edgy niche of remix culture, more focused on poking holes in claims of copyright. He would take a measure or less of an immediately recognizable popular hit, and warp it, changng the tempo or pitch or tone, and then blend it with something else. The trick, the thing mash-up artists prized in themselves and others, was the ability to combine unlikely, incongruous elements. Music that shouldn't fit together, but did. Simpering boy-bands ruthlessly shoved under grunge metal or trap beats, dusty soul albums chopped up and layered over drum and bass. Good mash-ups revealed the underlying similarity, the common chord changes, once the songs were stripped down for parts.
+
+When she'd asked Sunil about it, if he minded that it was derivative, if he wasn't putting himself at the level of fawning fan-boy of mass-produced pop culture, he had told her no, he intentionally chose songs he hated, that had gotten stuck in his head, and wouldn't let him hear anything else. He was just using the ear-worms to catch larger fish. "We have all this terrible, catchy music forced constantly into our ears, through commercials, movies, parties. Rusty hooks trawling through the sound-waves. They get stuck, like plastic in our gut, making us feel full but offering no nutrition. Ear worms are like tape worms. Parasites, using us to find other hosts. Mash-ups are the only way we have to fight back, to begin to break them down. Copyright infringement is the only way to protect ourselves from being dumbed down, musically, by a completely commercialized society."
+
+Sunitha thought of that conversation now, with the insistent brain-dead progressions of surfer rock coming from the screens and windows. Sunil was breaking it down, warping it, running it through filters. Digesting. Turning it from a mental inevitability, an immutable and indestructible loop, back into the shit it really was, so that it could be eliminated.
+
+Everyone who had tried to encourage them with music wanted them to turn their energies to the production of singular, salable objects. Commodities. One definitive recording, one album or set of NFTs that could persist forever in a perfect state. A record, of something that had already happened, and couldn't be revised, remixed, or played differently. For the Glider Guns, (the vocalist and bassist excluded, which is why they were probably going to leave the band), the only kind of music worth making was the kind that could change and drift, that came from listening and response. Not knowing what came next, until it did. They only released LPs and EPs to fund live shows, hopefully a tour, although most venues would want to know what to expect up front, what well-defined niche of consumer they could market them to, without surprises.
+
+That night, with Sunil transposing market ticks into beats, and candles into changes between notes, her wrapping cello strings around that dropping knife of chaos and the frat-boy power chords from the stage down the road, was the best they had ever played.
+
+Then, the explosion happened down the road, on their screens. For a few bars, the bleeps and ambient synths continued, and she finished the verse, unwilling, even in the face of catastrophe, to leave the phrase unfinished. Only then did she think of Matty, and her family.
