@@ -70,4 +70,4 @@ Everyone who had tried to encourage them with music wanted them to turn their en
 
 That night, with Sunil transposing market ticks into beats, and candles into changes between notes, her wrapping cello strings around that dropping knife of chaos and the frat-boy power chords from the stage down the road, was the best they had ever played.
 
-Then, the explosion happened down the road, on their screens. For a few bars, the bleeps and ambient synths continued, and she finished the verse, unwilling, even in the face of catastrophe, to leave the phrase unfinished. Only then did she think of Matty, and her family.
+Then, the explosion happened on their screens after they heard it, sound traveling faster than wi-fi that had to bounce off satellites even to travel a kilometer away. For a few bars, the bleeps and ambient synths continued, and she finished the verse, unwilling, even in the face of catastrophe, to leave the phrase unfinished. Only then did she think of Matty, and her family.
