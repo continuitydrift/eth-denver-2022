@@ -70,7 +70,7 @@ It was strange, being outside. Everything was bright, every source of informatio
 
 At least now he would be able to say he'd attended at least one event in person. He could say that he'd gone to the conference, and not feel like a total fraud.
 
-They checked his cornybuff at the door. Every attended event, every social interaction of every attendee had been inscribed on the immutable distributed ledger of the blockchain. Everything was gamified. By sitting in his hotel room, a self-imposed confinement, but constantly updating his Bitbub repository, he'd been at the conference just as much as any warm body sitting in the seats. He'd been sitting exactly where the camera was. Chatting in the Accord stream, so maybe participating, maybe really *being there*, in the sense of being present, more than the well-dressed, attractive people in the actual frame. He was *telepathic*. All he had to do was to think something, to type it, and he had an audience larger than the hackers actually in the room.
+They checked his cornybuff at the door. Every attended event, every social interaction of every attendee had been inscribed on the immutable distributed ledger of the blockchain. Everything was gamified. By sitting in his hotel room, a self-imposed confinement, but constantly updating his Bithub repository, he'd been at the conference just as much as any warm body sitting in the seats. He'd been sitting exactly where the camera was. Chatting in the Accord stream, so maybe participating, maybe really *being there*, in the sense of being present, more than the well-dressed, attractive people in the actual frame. He was *telepathic*. All he had to do was to think something, to type it, and he had an audience larger than the hackers actually in the room.
 
 That's what he told himself.
 
@@ -110,4 +110,4 @@ The woman only nodded, and then looked at the stage, mercifully avoiding eye-con
 
 "I feel like...people are looking at us." Chase said, handing the headphone back.
 
-"Yeah," she answered. "It's because I'm in the band. Keep these," she said, reconnecting the right and the left sides of the earphones. "Don't go anywhere." Then she walked up to the stage, nodding to another Indian guy who had been tapping and typing alternately on a soundboard and laptop. She picked up an electric violin, just the plastic outline of an instrument with strings, a pick-up, and a resonator, and a bow, slipped on another pair of headphones, and started to play. 
+"Yeah," she answered. "It's because I'm in the band. Keep these," she said, reconnecting the right and the left sides of the earphones. "Don't go anywhere." Then she walked up to the stage, nodding to another Indian guy who had been tapping and typing alternately on a soundboard and laptop. She picked up an electric violin, just the plastic outline of an instrument with strings, a pick-up, and a resonator, and a bow, slipped on another pair of headphones, and started to play.

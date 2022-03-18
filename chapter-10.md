@@ -10,7 +10,7 @@ Sunitha had a lot more followers than Babacar, so she started her own stream on 
 
 "I'm in Colorado, with some friends I made in the past week, and of course Sunil, who will be doing the audio for this stream, and Babacar, who'll be running a one-shot of his original procedural role playing game, Septagons." Marcus was running the broadcasting software, and he switched it to the angle showing Babacar, smiling more than any time since she'd met him a few days ago. Sunitha, as much as she tried to suppress it, felt an automatic dislike for Marcus. They'd tried jamming, and it was clear that despite his claim to know some "killer solos" on guitar, he had no idea how to improvise or listen to other musicians. His musical tastes (surf rock, for god's sake!) indicated an ability to only enjoy over-produced and predictable formulas of chord changes and folksy slides and hammer-ons.
 
-"Septagon's is a working title, Sunitha. Thank's for hosting this on your channel, and welcome to anyone joining us from over there. I can see already we have more people here than usual." He proceeded to greet, by name, anyone who said hello in the chat. It was the one thing Sunitha didn't like about streaming, the expectation to acknowledge every person in the audience who bothered to type even an emoji. At some point, she thought, the quality of the stream was decreased for everyone because of the time wasted validating the presence of the viewers, which led to fewer viewers. When there were hardly any viewers, she could focus on the music, and then her stream got more popular. A self-regulating system. Homeostatic balancing of interest.
+"Septagon's is a working title, Sunitha. Thank's for hosting this on your channel, and welcome to anyone joining us from over there. I can see already we have more people here than usual." He proceeded to greet, by name, anyone who said hello in the chat. It was the one thing Sunitha didn't like about streaming, the expectation to acknowledge every person in the audience who bothered to type an emoji. The quality of the stream decreased for everyone because of the time wasted validating the presence of every single viewer, which led to fewer viewers. A self-regulating system. Homeostatic balancing of interest.
 
 At some point, Marcus switched the camera over to her again, and eventually Babacar took the hint, although they were using one hot mic in the middle of the table, so there was no way for the snowboarder to actually mute him.
 
@@ -28,7 +28,7 @@ She, like Sunil, were straight-edge, trying to achieve with mental awareness and
 
 Sunitha, thankfully, had mostly been in charge of the music, she and Sunil filling in lulls in the action, when Babacar and Chase had started arguing about the rules. Her character, fittingly, had been a bard, and Sunil even made rolls as a tight-lipped thief. Marcus, when not contributing basic white-boy guitar licks, or adding experimental filters to the video feed, played a straight-forward barbarian, with an "axe" (ha, ha).
 
-While the game was going on, there were also a few hundred participants in chat to keep track of. "Hey, Nico," Sunitha messaged him. "Are you seeing the assholes in the chat room?"
+While the game was going on, there were also a few hundred participants in chat to keep track of. "Hey, Nico," Sunitha messaged him. "Are you seeing the assholes in chat?"
 
 "Yes, my dear," Nico wrote back. "I have a bot that might help."
 

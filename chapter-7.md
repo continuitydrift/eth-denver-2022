@@ -6,9 +6,9 @@ Chapter 7
 
 They'd struck up a polite conversation, Matty complimenting her on her music, telling her she owned one of the NFTs, and had listened to it several times. They invited her in. She'd declined automatically, but when they offered a second time she had shrugged, and said, "just for a minute."
 
-There were seven people in the hotel room, about half of them wearing masks, taking them down to sip tea or beer. When she had accepted the tea rather than beer, saying she'd had too many already, they nodded, knowingly. "Us, too. Here, this will help." The chai was delicious, with cardamom and cloves, gingery sweet.
+There were seven people in the hotel room, about half of them wearing masks, taking them down to sip tea or beer. When she had accepted the tea rather than alcohol, saying she'd had too many already, they nodded, knowingly. "Us, too. Here, this will help." The chai was delicious, with cardamom and cloves, gingery sweet.
 
-"The number of combinations where it is possible to roll those numbers is different," Babacar was saying, He seemed more of an outsider in this group. Not that the others were unfriendly to him, just that they didn't know him as well as they knew each other. Which explained, perhaps why he'd self-elected to carry on a conversation with her.
+"The number of combinations where it is possible to roll those numbers is different," Babacar was saying, He seemed more of an outsider in this group. Not that the others were unfriendly to him, just that they didn't know him as well as they knew each other. Which explained, perhaps, why he'd self-elected to carry on a conversation with her.
 
 "Take a six. Three and three, A two and a four, and a one and a five. Same with a seven. Three different possible combinations. With an eight, nine, four, and five, there are only two."
 
@@ -18,9 +18,9 @@ Matty didn't make the effort to follow the calculations in her head, but she got
 
 "I don't understand all of that, but it sounds like a great idea."
 
-"One last, thing, though: we wanted the gamification element to be decoupled from the price of the NFTs, so we're not just reproducing oligarchic concentrations of power. So the number of times it was traded, even if they were wash trades at the same price, works as a magnifier. Of course a given pair of addresses are only allowed to buy and sell once between them. So we reward having a large group of friends that you can trust, even poor ones."
+"One last thing, though: we wanted the gamification element to be decoupled from the price of the NFTs, so we're not just reproducing oligarchic concentrations of power. So the number of times it was traded, even if they were wash trades at the same price, works as a magnifier. Of course a given pair of addresses are only allowed to buy and sell once between them. So we reward having a large group of friends that you can trust, even poor ones."
 
-Matty thought she heard a note of frustration in his voice, maybe even bitterness. Yes, she thought, even the poor ones.
+Matty thought she heard a note of frustration in his voice. Yes, she thought, even the poor ones.
 
 "What about you?" Babacar asked her. She wondered if he was Muslim, and if some of the others had made tea so he wouldn't feel uncomfortable for being the only one not drinking. Maybe that was cynical of her.
 

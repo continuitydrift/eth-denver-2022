@@ -1,6 +1,6 @@
 # Chapter 13
 
-Sunitha and Matty settled into a rhythm of skiing, then talking on the lift back up the top of blue or red diamond slopes. Matty was graceful on skis, choosing paths through the drifted show different than she would have chosen had she not been following the older woman's lead. She knew how to steer with her weight, rather than the poles or skis, using the shape of the moguls to make her turns.
+Sunitha and Matty settled into a rhythm of skiing, then talking on the lift back up the top of blue or red diamond slopes. Matty was graceful on skis, choosing paths through the drifted show different than those she would have chosen had she not been following the older woman's lead. She knew how to steer with her weight, rather than the poles or skis, using the shape of the moguls to make her turns.
 
 They both had nervous energy to work off. There was only about a half hour left before it got too dark to sky, while the views from the lifts would get exponentially better. Sunitha was still almost uncomfortably warm beneath her suit, gloves, boots, and hat. Matty had told her that her family was going to arrive later that night, around when the surf-rock band the Glider Guns were opening for would be on stage.
 
