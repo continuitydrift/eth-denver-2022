@@ -55,3 +55,19 @@ Babacar looked into his eyes, trying to see how much he was joking. "I guess not
 In the station, all the lights flickered, and then came back on.
 
 A young woman came up to him, looking between him and her phone, uncertainly.
+
+"I'm sorry," she said. "Are you the pseudoghost?"
+
+___
+
+Chase was sitting in Marcus's kitchen, looking at the kitschy souvenirs on the walls. He envied Marcus's life: his kids (even if, as it seemed, Marcus rarely got to see them), his obvious wealth, and his travels. Pierrot, the bull-dog, had finished with his food, been taken out to pee, and was now asleep on his mat in the corner.
+
+Chase opened an Altitude IPA, telling himself he would only drink one more tonight. Maybe two. He was listening to an EcoGloom podcast, some author who was talking about the 60 trillion metric tonnes of topsoil that had been lost in the American midwest, and how reliant agro-industries were on petroleum-based fertilizer. Organic nutrients could only be replaced by animal or vegetable matter, and the animals and plants had all been cleared away to make room for mono-cropped farms that pulled food from the soil, but gave nothing back. Combined with global warming, the guest was saying, and the salinization of low-lying coastal regions, the planet was looking at mass starvation, displacement, and conflict in the near future.
+
+He was also listening, in a different window, to a recording of the Glider Guns from the night of the explosions, the surreal mash-up with melodies Sunil had told him had been partly generated from the falling market tickers (since recovered). He was also skimming the Daemon DAO Accord, the new channels he now had access to. Still, his mind was restless, needing something else to feed on. His phone was low, but as he was about to go plug it in, the lights flickered and died, along with his laptop, since the battery had, a while ago, stopped holding any charge. They came back on for a second, then went off again. The refrigerator had stopped humming, and the dog was looking up at him, staring into his eyes.
+
+He'd talked to Sunitha the night before, thanking her for being so open with him, explaining about his inability to read the expressions in people's eyes. "That's normal," Sunitha had said. "It's the human condition. There's this French theorist I did a paper on. His famous line was, '*I don't know, and you can't tell me.*' He was talking about his ability as a writer, but it applies to everything. How other people think, how they feel about you. You can never know for sure, not from their eyes, their words, or anything else. Everyone is essentially inscrutable. The only thing different about you is that it bothers you. You *want* to know for sure, to understand what people think. You haven't given up. That's your meme, the replicator. Knowing you don't know, but wanting to. Please, don't ever let that go."
+
+Chase went out onto the front porch, to see if the lights were out in the other houses. They were, although the street lights were still on. There was a package near the door, farily large, and when Chase brought it back inside, using the light on his phone, he was surprised to see that it was addressed to him. He opened it, and pulled out a large felt mask, not as cartoonish as the others he remembered, of a bear.
+
+He sat it on the kitchen table, opening another beer, and looked at it for a long time in the eerie silence, staring into its eyes.
