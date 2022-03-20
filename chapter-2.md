@@ -1,5 +1,7 @@
 # 2: Biophilia
 
+![image](assets/images/environmentalist.jpg)
+
 Matty woke up when some kinds came back to the hotel drunk, around two or three in the morning. For a second, she thought they were her own children, her fears realized: they had grown up, and irresponsible, overnight. The jokes she had made with the over the Boom call before they went to bed, warning her 13 year old not to go to any parties without her, transmuted by dream logic into reality. The book she'd been reading them wrapped in the sheets next to her, where Brian should have been. The room smelled wrong and unfamiliar.
 
 She got up and went to pee, listening to the group of young people laughing through the thin walls. The smell of weed came through the vents. She looked into the mirror, trying to mentally erase the sags and wrinkles, imagining herself at their age. It didn't work. It had been a different country, literally and metaphorically. A different world. Instead, she saw Jenny, a few years older than she was now, the blunt but striking beauty that had been foreshadowed by her experiments with make-up. Matty had cried when she'd seen her, not understanding why.

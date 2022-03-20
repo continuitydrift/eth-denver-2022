@@ -1,3 +1,5 @@
+# 16: Mash-ups
+
 Sunitha remembered obsessing over older girls, the way they talked. Later, it would be professors, or tech millionaires. The thing, she realized, that had given her an almost sacred fire of jealously, of wanting to be in that inner circle, the formula she had never been able to understand, was the opposite of a formula. There was no algorithm or structure that could be followed or reproduced. It was simply the ability to listen to one another, to be present, to twist a moment into a stupid joke, an amusement exactly shared between them.
 
 She'd found it, the skill of sharing time, with Sunil. The line she'd used on Chase was one that Sunil had used on her, freshman year, when he'd heard her crying, and come into the restroom to comfort her.

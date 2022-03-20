@@ -1,4 +1,4 @@
-# Chapter 6
+# 6: Pseudoghost
 
 Chase spent most of the hackathon in his hotel room. It took him several days to recover from the food poisoning, or whatever it was, and although he tested negative at the door for the virus, he hadn't wanted to attend any of the events looking like he had a fever. There was some confusion, too, because he'd registered for the conference virtually, before he'd decided to go in person, and had assumed that his application was good for both, but that turned out not to be the case. The organizers were understanding, and told him he could have access to most of the co-working spaces and larger events, but some of the more exclusive workshops and smaller venues had already sold out, Cornibuff NFTs or no.
 

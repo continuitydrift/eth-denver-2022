@@ -1,4 +1,4 @@
-# Chapter 5
+# 5: Daemons
 
 The Taproom, like so many of the bars in Denver, had the feel and smell of a ski lodge, except instead of a fireplace they had a pizza oven. It took him a second to find Damien, at a small table by the wall, under an oil painting of the Western slope of La Plata Peak, autumn aspens in the foreground. Damien looked up from his laptop, through those weird lenses that were supposed to lessen eye-strain from screens. Without thinking, they clasped hands, pulling each other into a chest-thumping hug, mindful of the beer and cheesy fries on the table.
 
@@ -31,6 +31,9 @@ Damien grinned, some fries still stuck in his teeth. "Had a huge crush on you?"
 "Whatever," Marcus said as Damien propped up a tablet to face him, handing him some wireless headphones. The man was already on the screen by the time he got them over his ears, dampening the sounds of the bar.
 
 ___
+
+![image](assets/images/director.jpg)
+
 The man on the call was older than Marcus was expecting, with thinning white hair down to the shoulders of his dinner jacket. He was either using a well-rendered background, or was seated in a study that wouldn't have been out of place in a medieval castle, with high oak cabinets and bookshelves, queen Anne chairs, tapestries, and even actual candles in holders and glass hoods, their light softening the glow of the screen Damien's friend was looking into. The only thing out of place was a modern scupture cast in bronze, mounted on the wall. Marcus wouldn't have been at all surprised to see a skull on the table, or a quill pen and bottle of ink.
 
 "Ah! You are drinking! Please, let me join you." His accent didn't sound German so much as Eastern European, with a touch of vampire. There was the sound of pouring off-screen, and then a big stein filled the view.

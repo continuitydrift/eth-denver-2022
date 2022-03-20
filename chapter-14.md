@@ -1,3 +1,7 @@
+# 14: Boom Call
+
+![image](assets/images/3.jpg)
+
 "Which side are you on?" Charles asked him, with that singer's voice pseudo-tremulous in weird auditory tones, like a low-pass filter in multiple dimensions. "Continuity or Drift?"
 
 That had been the name of the novel he'd been reading on the train, the first time he'd met them, preoccupied with troubles that now seemed laughably small in comparison. Strangely, he felt calmer now than he had then.

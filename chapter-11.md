@@ -1,3 +1,7 @@
+# 11: Blue Lake
+
+![image](assets/images/6.jpg)
+
 It was cold, a contest between the alpine air and the heat of his metabolism and movement, with a neutral zone established in the thin layer between his skin and base layer of long underwear.
 
 Marcus, of course, was more expensively and appropriately attired, complete with hiking poles and steam-punk looking goggles that, Babacar, when he first saw them, had thought to be augmented reality lenses, maybe another gift from their mysterious patrons at Reincarnate or Daemon DAO.
@@ -78,7 +82,7 @@ The lake was beautiful. There was a family nearby, a little girl skipping stones
 
 "No, they've been in my streams before, and said worse things. I'm glad you all were there."
 
-Marcus got up, and started doing toe-touches, and what seemed like yoga exercises. 
+Marcus got up, and started doing toe-touches, and what seemed like yoga exercises.
 
 "So, I know you don't drink, but do you smoke weed?"
 

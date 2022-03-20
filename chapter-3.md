@@ -1,4 +1,6 @@
-# Chapter 3
+# 3: Truthereum
+
+![image](assets/images/snowboarder.jpg)
 
 It felt good to be part of a team. Marcus hadn't had anything resembling a normal job since working at a fish shack in high school, and if he was going to jump back into gainful employment in his 40s, coming in from the cold, this seemed like the least selling-outway to do it. These Goalrand people were legit. In a way, it was coming full circle. Damien had gotten him into crypto back in college, perhaps as a way to pay Marcus back for getting him laid.
 
@@ -50,4 +52,4 @@ The teenager working there told him to scan the QR code on the sign.
 
 "Okay. Hey Damien, I've got to do something with my phone. I'll call you back."
 
-"I'm pretty busy all day. Meet you at the Tap Room at 8:00?" Marcus hung up, opened the wallet, and tried scanning the barcode, but the transaction failed. "This isn't working," he said. 
+"I'm pretty busy all day. Meet you at the Tap Room at 8:00?" Marcus hung up, opened the wallet, and tried scanning the barcode, but the transaction failed. "This isn't working," he said.

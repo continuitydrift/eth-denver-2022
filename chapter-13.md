@@ -1,4 +1,4 @@
-# Chapter 13
+# 13: Slope
 
 Sunitha and Matty settled into a rhythm of skiing, then talking on the lift back up the top of blue or red diamond slopes. Matty was graceful on skis, choosing paths through the drifted show different than those she would have chosen had she not been following the older woman's lead. She knew how to steer with her weight, rather than the poles or skis, using the shape of the moguls to make her turns.
 

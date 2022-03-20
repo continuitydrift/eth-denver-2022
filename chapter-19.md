@@ -1,3 +1,5 @@
+# 19: The Bear
+
 Matty was glad to be back home, swept back into her daily rounds of professional and familial life, her home office invaded by cats and children, who only interrupted her for *very important* things approximately ever ten minutes. The houseplants had needed watering, and Brian had forgotten to take the trash out on Tuesday, but other than that things had been fine without her. They'd gotten their mini-vacation, with horse-back riding and snow-tubing, and she'd joined them on the last day, when it was clear she wasn't going to figure anything more out about the explosion, or the young mens' encounter with the masked environmentalists.
 
 The morning after, she'd gone to the yoga session with Dana after all, and shown her the photo on her phone. Matty knew that she was active in the group whose symbol had been sprayed on the logging truck.

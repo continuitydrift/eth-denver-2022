@@ -1,4 +1,4 @@
-# Chapter 10
+# 10: Trolls
 
 Babacar, it turned out, was a serious gamer, the possible intersection of NFTs and role playing games being the main reason he had attended the conference. Sunitha had, when she learned that he was planning on doing a regular Witch.tv broadcast, had encouraged him to let Marcus stream it on a different laptop, using Nico's decentralized app, and comparing the quality of the two streams and engagement.
 

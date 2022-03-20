@@ -1,4 +1,6 @@
-Chapter 7
+# 7: Game Theory
+
+![image](assets/images/4.jpg)
 
 "Say you have two six-sided dice," the young man was saying to her, politely, with the energy probably residual from pitching the same idea to dozens of people already today. By now, he could recite the bullet points as promptly as if he were reciting them from a teleprompter. "The most likely outcomes from a single roll will be a six, or a seven."
 

@@ -1,4 +1,4 @@
-# Chapter Nine
+# 9: Augmented Reality
 
 Sunitha was getting used to virtual reality, but she still hated it. The future, she'd said over and over, is **augmented** reality. Cyborgs not robots. That was the dialectic of musical history, and probably history in general: blind trust in human instinct, followed by a blind trust in human reason. Both extremes causing disasters. Folksy tambourine-slapping swerving into the regimented nightmare of drum-machines, followed, hopefully, by a synthesis into the type of electronic music that tried to make machines sound human, and not the other way around.
 

@@ -1,4 +1,4 @@
-# Chapter 8
+# 8: Hawks and Doves
 
 "So you want a game that approximates reality," Babacar said.
 

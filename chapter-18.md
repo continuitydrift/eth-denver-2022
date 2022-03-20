@@ -1,3 +1,5 @@
+# 18: Sympathy
+
 "You can stay as long as you want," Marcus had said to Chase, when Babacar was there. "You too, dude," he said to Babacar, recovering. Babacar looked away, smiling, knowing that he made too much eye-contact, that it was some kind of a cultural difference.
 
 Everyone seemed to be quitting their jobs or getting fired, dropping out of school, casting new ships out to sea, but we was going back to his job in Portland as a parking-lot attendant, to his room in the house that was too small to legally list on Earth bnb, legally, so they rented it to him by month, at a rate he could afford, putting up with the constant churn of strange new visitors, and laundry.
@@ -12,7 +14,7 @@ What was a symbol, a representation, for what? Was her being aromantic, averse t
 
 *Love is what doesn't ask why*, his ex had told him, and it went both ways. The absence of reciprocation must necessarily be inexplicable. It was the hardest, and the oldest, of the challenges one must face.
 
-He didn't feel like he would fit in with Chase and Marcus, or with Denver, where everything was expensive and few people had tattoos. He'd never been without a normal job, and some in-grained work ethic meant that without a paucheck however small, he felt fraudulent and insecure. Nico had shelled out another generous round of funding, with the usual condition that half had to be paid out to others, but there was no guarantee, despite now being a fully-fledged member of the guild, that the income would be sustainable. The Daemon treasury, also, would now be taking their 10%, and the payout was in DAEMON coin. While he could theoretically convert all his earnings into fiat, DAO members were encouraged to put their gains back into the liquidity pool on Giant, the biggest decentralized exchange for Goalrand.
+He didn't feel like he would fit in with Chase and Marcus, or with Denver, where everything was expensive and few people had tattoos. He'd never been without a normal job, and some in-grained work ethic meant that without a paycheck however small, he felt fraudulent and insecure. Nico had shelled out another generous round of funding, with the usual condition that half had to be paid out to others, but there was no guarantee, despite now being a fully-fledged member of the guild, that the income would be sustainable. The Daemon treasury, also, would now be taking their 10%, and the payout was in DAEMON coin. While he could theoretically convert all his earnings into fiat, DAO members were encouraged to put their gains back into the liquidity pool on Giant, the biggest decentralized exchange for Goalrand.
 
 It was three weeks after the Breckenridge retreat, and less than a week before the end of the virtual hackathon. They were sitting in Marcus's backyard, with honeysuckle and Magnolia not yet budding, garden beds planted with carrots and noodle beans, trellises waiting to be climbed. Matty had left, a week after her family almost got blown up, frustrated with a lack of closure. The explosion had been pinned on a radical cell of animal-rights activists, who had been sold the explosives by federal agents in what their lawyers were calling entrapment. The detonators the spies had given them were supposed to be faulty, but through either ingenuity on the part of the activists or incompetence on the part of the agents, they hadn't been. Nothing had come out about an online cult wearing animal masks.
 
@@ -32,7 +34,7 @@ Chase, it seemed, also not having a job to go back to, was going to dog-sit Pier
 
 "Are you sure?" Marcus asked him. "You got a lot of new subscriptions last time. Sunitha's channel, too, was racking up a lot of tips."
 
-"Yeah," Babacar said, enjoying the sound of traffic, the smell of barbeque up the street. "It's our last night together, for a while. Let's still play, and have music, and we can conference Nico in, but I don't feel like doing a stream."
+"Yeah," Babacar said, enjoying the sound of traffic, the forbidden smell of barbeque up the street. "It's our last night together, for a while. Let's still play, and have music, and we can conference Nico in, but I don't feel like doing a stream."
 
 Sunitha was looking at him, using his own trick of unbreaking eye contact that Chase had said was terrifying. "I'm not afraid of the trolls."
 

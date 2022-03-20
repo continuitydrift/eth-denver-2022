@@ -1,4 +1,6 @@
-# Chapter 4
+# 4: Musical Landscapes
+
+![image](assets/images/musician.jpg)
 
 "Hello, My name is Sunitha. I'm one of the Glider Guns." There were a few cheers from the back of the room. "I'm also working on a Master's in Comp Sci at MIT, here with a classmate, but we're actually not competing in the Hackathon. For one thing, our project is both virtual and in person, so we wouldn't qualify for the bounties. The rules are too restrictive for us. There's no way we could pick just four people, or finish by the time the hackathon is over. We extend too far, in time and space. For another thing, we don't believe in competition." A different part of the small auditorium burst into brief, spontaneous applause. She smiled at them. "I mean, artificial scarcity is the problem, right? Why become dependent on hand-outs, when we can use this conference instead as a launchpad for exogenous, decentralized funding. I mean, isn't that what blockchains are all about?" This time there was no applause, and she guessed she might have gone too far.
 
