@@ -8,7 +8,7 @@ Everyone seemed to be quitting their jobs or getting fired, dropping out of scho
 
 He'd been unemployed, once, for over a year. Falling for various multi-level pyramid schemes and hustle-hungry internet scams. He'd gone to food pantries, to mosques, and pretended to be more faithful than he was.
 
-Babacar did feel like some train was leaving the station, that he was being left behind. As much as the rest of the team promised to keep in touch remotely, he know that there was a *je nes sais quoi* to being in the same place, breathing the same air. He´d talked to Sunitha about sex, about being attracted to her. It came down, she said, to a phobia about bacteria, about microbes, or microbiomes.
+Babacar did feel like some train was leaving the station, that he was being left behind. As much as the rest of the team promised to keep in touch remotely, he know that there was a *je ne sais quoi* to being in the same place, breathing the same air. He´d talked to Sunitha about sex, about being attracted to her. It came down, she said, to a phobia about bacteria, about microbes, or microbiomes.
 
 What was a symbol, a representation, for what? Was her being aromantic, averse to physical intimacy, an expression of germaphobia, or the reverse? Ultimately, it didn't matter, the result was the same: she didn't want to sleep with him. The choice was either to respect the boundaries she had set, or to interrogate them, challenge them according to some prerogative that confused the rational with the sexual.
 
