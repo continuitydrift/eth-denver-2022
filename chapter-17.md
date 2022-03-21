@@ -1,8 +1,8 @@
-17: NFTs
+# 17: NFTs
 
 ![image](assets/images/5.jpg)
 
-"Stop!" Babacar said, as Marcus crashed through the forest.
+"Stop!" Babacar said, as Marcus crashed through the trees.
 
 Marcus didn't want to argue with him, but didn't want to provoke him, either. Damien had told him to take Chase out into the forest. The memeticist  hadn't wanted to, at first, but after seeing that Matty and her kids were okay, he'd gotten out his phone again. The Daemon DAO, the pseudoghost, had agreed with him. Babacar was another story.
 
@@ -20,7 +20,7 @@ Chase stumbled, and Marcus caught him. "Stop looking at your phone," Marcus said
 
 "Is that a good thing?" Babacar asked.
 
-Marcus thought about other things he'd picked up in chat rooms, on some of the Reader threads. Things about a merge. Before it happened, reality was supposed to be subject to interpenetration from parallel worlds. A lot of the conspiracy theories about how quickly the tech had developed, the mystery surrounding Bytecoin's original, anounymously written code, and even the virus (arguing with the trucker protesters had introduced him to a lot of hyper-infectious psy-op memes) involved alternate worlds and gateways opening between them. It required, according to the stranger videos Marcus had seen, a kind of mass-induced psychotic shift, a paradigm drift, that could only happen with some combination of mind-altering drugs and music. The last time extra-dimensional entities had broken through had supposedly been woodstock.
+Marcus thought about other things he'd picked up in chat rooms, on some of the Reader threads. Things about a merge. Before it happened, reality was supposed to be subject to interpenetration from parallel worlds. A lot of the conspiracy theories about how quickly the tech had developed, the mystery surrounding Bytecoin's original, anonymously written code, and even the virus (arguing with the trucker protesters had introduced him to a lot of hyper-infectious psy-op memes) involved alternate worlds and gateways opening between them. It required, according to the stranger videos Marcus had seen, a kind of mass-induced psychotic shift, a paradigm drift, that could only happen with some combination of mind-altering drugs and music. The last time extra-dimensional entities had broken through had supposedly been woodstock.
 
 They came to clearing. Marcus, thinking of the hike with Babacar, was distracted by the sound of owls, and a wolf. It was only when he saw the shapes that he realized how wrong they had sounded, how human.
 
@@ -38,7 +38,7 @@ The other mask-wearers seemed to relax, breaking the circle they had formed arou
 
 "For talking to you. We have to post a picture of us, with you, from your phone. So they know it wasn't faked."
 
-"My phone isn't charged." Chase said. The fox held out her hand, wearing gloves that matched the mask, and waved her other hand over the phone, the screen lighting up, and the battery starting to charge. She took a picture with Chase and her, and then with all three of them, and then had someone wearing a rat head took a picture of everyone.
+"My phone isn't charged." Chase said. The fox held out her hand, wearing gloves that matched the mask, and waved her other hand over the phone, the screen lighting up, and the battery starting to go back up. She took a picture with Chase and her, and then with all three of them, and then had someone wearing a rat head took a picture of everyone.
 
 They posted the pictures from his account, using hashtags that didn't make sense to him. Marcus asked them why they were wearing the masks.
 
@@ -52,7 +52,7 @@ An elephant and what might be a groundhog were trying to get the fire started, l
 
 "Did you blow up the trucks?" Chase asked.
 
-"No," the fox said. "That was continuity. But we thought something like that might happen. They were trying to use the protestors, the stupid ones, to make the conference look bad."
+"No," the fox said. "That was Continuity. But we thought something like that might happen. They were trying to use the protestors, the stupid ones, to make the conference look bad."
 
 "Why?"
 
@@ -60,6 +60,8 @@ An elephant and what might be a groundhog were trying to get the fire started, l
 
 None of it made sense to Marcus, who was still trying to keep his eyes from seeing the snow slithering off the branches, and the sky shaking with pixelated fuzz.
 
-"So," he said, feeling the largeness of the stars above him, "Someone is trying to keep green crypto from going up."
+"So," he said, feeling the largeness of the stars above him, "Someone is trying to keep green crypto from catching on?"
 
 "No," the fox said, "They're just trying to create the conditions for a good entry price."
+
+[Chapter 18](chapter-18.md)
