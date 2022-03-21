@@ -4,7 +4,7 @@
 
 It was cold, a contest between the alpine air and the heat of his metabolism and movement, with a neutral zone established in the thin layer between his skin and base layer of long underwear.
 
-Marcus, of course, was more expensively and appropriately attired, complete with hiking poles and steam-punk looking goggles that, Babacar, when he first saw them, had thought to be augmented reality lenses, maybe another gift from their mysterious patrons at Reincarnate or Daemon DAO.
+Marcus, of course, was more expensively and appropriately attired, complete with hiking poles and steam-punk looking goggles that Babacar, when he first saw them, had thought to be augmented reality lenses, maybe another gift from their mysterious patrons at Reincarnate or Daemon DAO.
 
 Global warming meant that the weather was unseasonably temperate. The only reason Marcus was here, he suspected, was the snow wasn't good for snowboarding. He'd wanted to go to the more challenging Wheeler Pass, but Babacar had talked him into using his car to pool a group of them to Blue Lake instead. To compensate, Marcus had announced he would hike ahead, and wait for the rest of them at the lake. Babacar, against his better judgment, had joined him.
 
@@ -36,7 +36,7 @@ Babacar thought about it, listening to the waterfall, rubbing his hands to keep 
 
 "Heresy!" Babacar said.
 
-"You know, I really only got into crypto because of my friend, Damien. He introduced me to Nico, and got me into the Daemon DAO. Honestly, I don't even understand a lot of it."
+"You know, I really only got into all this because of my friend, Damien. He introduced me to Nico, and got me into the Daemon DAO. Honestly, I don't even understand a lot of it."
 
 Babacar took a long pause before answering. "I got into crypto as a way to hide my family's savings, so my father wouldn't drink all of it away."
 
@@ -72,7 +72,7 @@ They got to the lake where they were supposed to wait for the others. Marcus too
 
 "Well, there's Chase. He talks like he knows about things, but I don't think he actually codes."
 
-The lake was beautiful. There was a family nearby, a little girl skipping stones, but they soon wandered off. A beaver slapped its tail against the water, then ducked under spreading circles.
+The lake was beautiful. There was a family nearby, a little girl skipping stones, but they wandered off. A beaver slapped its tail against the water, then ducked under spreading circles.
 
 "Look," Marcus said. "I hope it doesn't bother you when we drink around you. I know Chase and I got a little crazy last night."
 
@@ -86,4 +86,6 @@ Marcus got up, and started doing toe-touches, and what seemed like yoga exercise
 
 "So, I know you don't drink, but do you smoke weed?"
 
-"No," Babacar laughed, "but you go ahead."  
+"No," Babacar laughed, "but you go ahead."
+
+[Chapter 12](chapter-12.md)

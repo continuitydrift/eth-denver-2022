@@ -48,4 +48,4 @@ Crypto was still down. Two more people had liked his comment on Reader. No one h
 
 Looking at the comments, he thought of another reason why he might be feeling so terrible. It was the first night in years that he wasn't drinking.
 
-[chapter 2](chapter-2.md)
+[Chapter 2](chapter-2.md)

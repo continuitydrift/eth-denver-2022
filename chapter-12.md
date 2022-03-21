@@ -10,7 +10,7 @@ She stared at the phone, while the words "Nico is typing..." appeared.
 
 "Look, there are some heavy hitters at play here. They must have seen the live stream last night, and knew that Chase would be hung over. Vulnerable."
 
-"That doesn't make sense," Sunitha said, closing the door to the private room off the Snowfoot restaurant, where they'd done the live stream. The staff had agreed to let them use it as a practice/recording studio for the day, in exchange for doing a half-set as an opener for a different bad (surf-rock, ironically) later that evening.
+"That doesn't make sense," Sunitha said, closing the door to the private room off the Snow-foot restaurant, where they'd done the live stream. The staff had agreed to let them use it as a practice/recording studio for the day, in exchange for doing a half-set as an opener for a different bad (surf-rock, ironically) later that evening.
 
 Sunil had headphones on, lost in the remix. Chase was in the opposite corner, staring at his phone. "It wasn't just him. It was this entire liquidity pool he was involved with. Sunil says you can track the wallets. The exploit was actually published 12 hours ago, on some hacker site, but no one was saying anything, because they knew as soon as people found out the price would crash. So it didn't have anything to do with the link he clicked last night. It wasn't targeted." Chase looked up at her, gratefully. She took off another layer of the clothes she'd put on to go skiing, unwrapping a scarf and unzipping a hoodie.
 
@@ -20,7 +20,7 @@ Sunil had headphones on, lost in the remix. Chase was in the opposite corner, st
 
 "Yes, sorry, my dear. I forgot that was on." The usual castle backdrop was replaced with an ocean reflecting a clear, almost painfully blue sky. Nico the flamingo bobbed up and down on the waves. The avatar was wearing sunglasses, with whatever Nico was looking at projected in reverse on the lenses, as if they were AR goggles.
 
-"Sadly, I am serious. It's my fault, I'm afraid, or at least the DAOs fault. We've poked something with a stick that should not have been poked."
+Nico switched to voice, his accent thicker than normal. "Sadly, I am serious. It's my fault, I'm afraid, or at least the DAOs fault. We've poked something with a stick that should not have been poked."
 
 "You summoned a daemon?" Sunitha asked.
 
@@ -44,7 +44,7 @@ Chase stood up, staring at Sunitha's phone. Nico was still a flamingo. Currently
 
 "Why?" Chase asked.
 
-"Let me tell you about the pseudoghost. Originally, it was just the idea of some hack novelist, Continuity Drift. The narrator of his novels, according to the fiction, was an algorithm from another dimension. A being of pure memesis, able to travel between dimensions before the merge."
+"Let me tell you about the pseudoghost. Originally, it was just the idea of some hack novelist. The narrator of his novels, according to the fiction, was an algorithm from another dimension. A being of pure memesis, able to travel between dimensions before the merge."
 
 "Screw this," Chase said. "Jump ahead to the part where someone wants to kill me."
 
@@ -69,3 +69,5 @@ Sunitha had looked at him, thinking quickly. "I know you are feeling vulnerable 
 "I guess?"
 
 "I'm not interested in you, romantically or sexually. Can I give you a hug?"
+
+[Chapter 13](chapter-13.md)

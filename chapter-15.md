@@ -1,10 +1,8 @@
 # 15: Memes
 
-No one was hurt, physically or severely.
+Matty believed, as Chase, Dana, and Babacar saw, that her family was burning, inside their car. She couldn't get close enough to tell, and while no one restrained her, several people shouted at her not to walk into the flames. It was, more than their voices, the heat that stopped her.
 
-Matty did believe, as Chase, Dana, and Babacar saw, that her family was burning, inside their car. She couldn't get close enough to tell, and while no one restrained her, several people shouted at her not to walk into the flames. It was, more than their voices, the heat that stopped her.
-
-And then Brian, his hand on her elbow, then, when she faced him, both of his arms around her. Jenny and Ras.
+And then Brian had his hand on her elbow, and, when she faced him, both of his arms around her neck. Jenny and Ras.
 
 When they were sure no one was hurt, the band started playing again, taking the time between songs to point anyone who might be showing signs of post traumatic shock towards the triage tent backstage (a camping tent someone had pitched just outside the driver's side door of their tour bus).
 
@@ -28,9 +26,9 @@ He'd just woken up. Had been dealing with the escalation of the conflict between
 
 Matty, he could tell, was a person familiar with how quickly history could happen. How the rug of cultural and psychological continuity could be pulled from out of your feet, burned into chaotic dust.
 
-"Are you leaving?" He asked, thinking about the footage of her, clinging to her husband and kids. He really did believe that whoever detonated the bombs wouldn't have set off the explosion, or let Chase set it off, if there had been a chance of people nearby. That meant whoever had sent the signal was either in the crowd, or had access to the drone footage.
+"Are you leaving?" he asked, thinking about the footage of her, clinging to her husband and kids. He really did believe that whoever detonated the bombs wouldn't have set off the explosion, or let Chase set it off, if there had been people in the blast radius. That meant those who had sent the signal were either in the crowd, or had access to the drone footage.
 
-"No. My family is. I'm going to stay and figure out who did this. I'm going to nail them with it. Even if it's one of ours."
+"No. My family is. I'm going to stay and figure out who did this. Even if it's one of ours."
 
 "It isn't." Nico said.
 
@@ -42,17 +40,17 @@ Search algorithms had spawned their own sub-communities and writing styles, othe
 
 That was, many of the pseudonymous posts suggested, what was going on in Breckenridge: the creation of a psychic information well, something advertisers and memeticists could only dream of: a completely captive audience, that didn't know their connection with the outside had been cut off.
 
-Except for Chase, whose phone was mysteriously charging, who had been targeted for the third (and hopefully final, if fairy-tale logic held) time, making both Chase (probably drugged with the same shrooms that Marcus had obviously taken voluntarily) and the police think, or at least suspect, that he had set off the explosion that had almost killed Matty's family. If they hadn't left the rental car and walked back to the stage, they would have burned to death. Assuming that whoever was watching from the drone, with its mysteriously now-missing footage, wouldn't have been willing to take human life.
+Except for Chase, whose phone was mysteriously charging, who had been targeted for the third (and hopefully final, if fairy-tale logic held) time, making both Chase (probably drugged with the same shrooms that Marcus had obviously taken voluntarily) and the police think, or at least suspect, that he had set off the explosion that had almost killed Matty's family. If they hadn't left the rental car and walked back to the stage, they would have burned to death. Assuming that whoever was watching from the drone, with its mysteriously now-missing footage, would have been willing to take human life.
 
 The trucks, and the way the explosions had been directed downward, signaled professional sabotage, possibly military. The cement truck, in particular, had leaked wet cement onto the road, making the task of clearing it significantly harder. The filled logging truck had added intensity and duration to the spectacle, and justified an additional amount of emergency vehicles whose sirens the band would slide-tune their instruments to match.
 
-People were saying, now, that they weren't, technically bombs, just some home-made hand grenades (extra flash and bang) wired up to a Blueberry microcomputer.
+People were saying, now, that they weren't technically bombs, just some home-made hand grenades (extra flash and bang) wired up to a Blueberry microcomputer.
 
 <!--There will probably be intense doxxing of everyone involved in Reincarnate, but so much dust in the air neither faction will do serious damage to the other. The victims, as always, will be unsuspecting innocents caught in the crossfire.
 
 The results will shake out, regardless of truth, according to the power structures already encoded into the system. Funding, in the short term, can outcompete collaboration and pursuit of collective truth. Intellectual public goods, many of which have been smuggled by us into source files of unrelated programs, with meta-meta data bearing encrypted witness to their origins, take time to bloom but will eventually triumph.
 
-We can only take the time to send human signals out into the dark, to outmaneuver the robot hordes with linked-together gray matter. I say this, knowing I'm mostly cybernetic ghost.
+We can only send super-human signals out into the dark, to outmaneuver the robot hordes with linked-together gray matter. I say this, knowing I'm mostly cybernetic ghost.
 -->
 
 His phone was ringing.
@@ -75,7 +73,7 @@ People were already making thousands on "board rock explodes" NFTs, elaborate ar
 
 "You're going to give it to the police?" Marcus asked.
 
-"Yes, I've got to! What else am I going to do?"
+"Yes! What else am I going to do?"
 
 Damien had told Marcus, in a direct message, that he should take Chase and go out into the woods, in a random direction, and wait until sunrise. "We've both got solid jackets on. We hit the trails in back of the lodge, go up the mountain. They won't be able to get us there. Also, maybe if we get high enough, far enough away, we'll get out of the bubble."
 
@@ -83,10 +81,12 @@ Chase, growing more concerned, asked him what kind of bubble, exactly.
 
 Marcus had been on mushrooms before. These weren't mushrooms. His stomach felt terrible, like he was dying. He wondered vaguely about throwing up, but the possibility seemed snowily distant.
 
-"Damien said there was some kind of a internet bubble being set up, some false sky, or painted sky, I don't remember." He'd told Marcus that the sky net would spoof every site people in the radius visited convincingly, using text-generating AI, trained on archive's of the site's history and editorial voice.
+"Damien said there was some kind of a internet bubble being set up, some false sky, or painted sky, I don't remember." He'd told Marcus that the sky net would spoof every site people in the radius visited convincingly, using text-generating AI, trained on archives of the site's history and editorial voice.
 
 Chase pointed out this was another reason to go to the police. Or an ambulance, if he felt better about it. Nothing would make them look guiltier than fleeing into the woods, maybe leaving everyone back at the lodge in danger.
 
 Maybe his feeling terrible was a normal consequence of almost getting blown up, and it only seemed strange to him because of his epic dose of shrooms. Maybe it was an appropriate reaction.
 
 Then he remembered the memes.
+
+[Chapter 16](chapter-16.md)
